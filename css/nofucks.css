@@ -143,6 +143,10 @@ padding-bottom: 15px;
   line-height: 30px;
 }
 
+.about {
+  text-align: center;
+}
+
 /* Float Clearfix ------------------ */
 
 .group:after {
