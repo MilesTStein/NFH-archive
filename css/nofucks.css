@@ -52,16 +52,8 @@ li a:hover {
   background-color: brown;
 }
 
-li a:visited {
-  color: white;
-}
-
 a {
   color: black;
-}
-
-a:hover {
-  color: lightblue;
 }
 
 a:visited {
@@ -145,7 +137,7 @@ padding-bottom: 15px;
 
 .about {
   text-align: center;
-  margin: auto;
+  margin: 30px;
 }
 
 /* Float Clearfix ------------------ */
